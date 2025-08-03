@@ -2,7 +2,7 @@
 
 <br><br>
 
-## How to call in your cells
+## How to use in your project
 
 ```python
 url = 'https://raw.githubusercontent.com/PratyushPuri/ProjectDatasets/main/<your_dataset>.csv'
